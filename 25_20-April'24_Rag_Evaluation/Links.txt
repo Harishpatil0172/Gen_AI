@@ -1,0 +1,7 @@
+Ragas(for RAG Evaluation) - https://docs.ragas.io/en/stable/
+
+- https://docs.ragas.io/en/stable/concepts/metrics/context_recall.html
+
+TrueLence - https://www.trulens.org/trulens_eval/getting_started/core_concepts/rag_triad/
+
+ares - https://github.com/stanford-futuredata/ARES?tab=readme-ov-file (section3)

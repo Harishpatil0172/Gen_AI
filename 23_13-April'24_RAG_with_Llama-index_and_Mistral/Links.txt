@@ -1,0 +1,13 @@
+- LanceDB(open source) - The database for multilodel AI(It has in-memory and cloud storage) - https://lancedb.com/ 
+
+- https://colab.research.google.com/drive/1oxfVifKuVN7kpC8QMyChKGoHYNlObqIS?usp=sharing
+
+Weaviate - https://pypi.org/project/weaviate-client/
+
+- https://platform.openai.com/playground/chat
+
+- https://github.com/run-llama/llama_index
+
+- https://github.com/run-llama/llama_index/blob/main/llama-index-core/llama_index/core/langchain_helpers/memory_wrapper.py
+
+- google all models - https://ai.google.dev/gemini-api/docs
